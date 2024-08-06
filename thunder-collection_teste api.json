@@ -1,0 +1,65 @@
+{
+    "clientName": "Thunder Client",
+    "collectionName": "teste api",
+    "collectionId": "07f426c6-70e1-42cd-9862-ae880ac83679",
+    "dateExported": "2024-08-06T12:51:01.150Z",
+    "version": "1.2",
+    "folders": [],
+    "requests": [
+        {
+            "_id": "1b4b6df3-7b85-4812-8618-88381e92cbd7",
+            "colId": "07f426c6-70e1-42cd-9862-ae880ac83679",
+            "containerId": "",
+            "name": "teste GET",
+            "url": "localhost/exercicio/api.php/cursos/",
+            "method": "GET",
+            "sortNum": 10000,
+            "created": "2024-08-06T10:53:57.578Z",
+            "modified": "2024-08-06T12:49:48.974Z",
+            "headers": []
+        },
+        {
+            "_id": "a7089cec-ee46-4184-8a45-82845020b21e",
+            "colId": "07f426c6-70e1-42cd-9862-ae880ac83679",
+            "containerId": "",
+            "name": "teste POST",
+            "url": "localhost/exercicio/api.php/alunos",
+            "method": "POST",
+            "sortNum": 20000,
+            "created": "2024-08-06T10:54:56.950Z",
+            "modified": "2024-08-06T11:38:25.284Z",
+            "headers": [],
+            "params": [],
+            "tests": []
+        },
+        {
+            "_id": "51a2ee7d-1272-4a9b-a6ea-e51b43680de6",
+            "colId": "07f426c6-70e1-42cd-9862-ae880ac83679",
+            "containerId": "",
+            "name": "teste PUT",
+            "url": "localhost/exercicio/api.php/alunos",
+            "method": "PUT",
+            "sortNum": 25000,
+            "created": "2024-08-06T10:55:06.064Z",
+            "modified": "2024-08-06T10:59:14.955Z",
+            "headers": [],
+            "params": [],
+            "tests": []
+        },
+        {
+            "_id": "8469966f-bffb-476d-af1e-a279bd86cee8",
+            "colId": "07f426c6-70e1-42cd-9862-ae880ac83679",
+            "containerId": "",
+            "name": "teste DELETE",
+            "url": "localhost/exercicio/api.php/alunos",
+            "method": "DELETE",
+            "sortNum": 30000,
+            "created": "2024-08-06T10:54:58.634Z",
+            "modified": "2024-08-06T10:59:19.958Z",
+            "headers": [],
+            "params": [],
+            "tests": []
+        }
+    ],
+    "ref": "wc87rsOcCGp9E3fqV9_krOJwwzn8IDbqKK-ua3R0BrLkn7XxfO6sf23jLRZ1o4wHtiqJ25k8d7L0we9V1wBX4A"
+}
